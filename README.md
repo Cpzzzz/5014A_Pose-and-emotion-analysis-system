@@ -1,6 +1,8 @@
 ## 5014A_Pose and emotion analysis system
 A comprehensive system with multiple functions: human detection, face detection, emotion recognition, pose estimation, and behavior analysis.
 
+
+
 ## Run demo
 Run on webcam:
 python main/main.py
@@ -12,12 +14,17 @@ Run on video:
 python main/main.py --video 'path_to_video'
 
 
-## System framework:
+
+## System framework
 <div align="center">
     <img src="README_images/system_framework.png", width="500">
 </div>
+
+
 
 ## Example
 <div align="center">
     <img src="README_images/example.jpg", width="500">
 </div>
+
+
