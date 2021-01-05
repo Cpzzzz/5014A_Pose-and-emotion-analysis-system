@@ -17,14 +17,21 @@ python main/main.py --video 'path_to_video'
 
 ## System framework
 <div align="center">
-    <img src="README_images/system_framework.png", width="500">
+    <img src="README_images/system_framework.png", width="800">
+</div>
+
+
+
+## Novel structure CNN
+<div align="center">
+    <img src="README_images/PMCNN.png", width="800">
 </div>
 
 
 
 ## Example
 <div align="center">
-    <img src="README_images/example.jpg", width="500">
+    <img src="README_images/example.jpg", width="800">
 </div>
 
 
