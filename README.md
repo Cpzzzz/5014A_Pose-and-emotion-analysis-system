@@ -30,7 +30,7 @@ python main/main.py --video 'path_to_video'
 
 
 ## Example
-Hand-raising detection:
+Hand-raising detection, emotion recognition:
 <div align="center">
     <img src="README_images/example1.jpg", width="800">
 </div>
