@@ -22,7 +22,7 @@ python main/main.py --video 'path_to_video'
 
 
 
-## Novel structure CNN
+## Novel Pyramid-like Multi-Scale Convolutional Neural Network(PMCNN)
 <div align="center">
     <img src="README_images/PMCNN.png", width="800">
 </div>
