@@ -37,6 +37,6 @@ Hand-raising detection:
 
 Fall detection:
 <div align="center">
-    <img src="README_images/example2.jpg", width="800">
+    <img src="README_images/example2.png", width="800">
 </div>
 
