@@ -1,5 +1,5 @@
 ## 5014A_Pose and emotion analysis system
-A comprehensive system with multiple functions: human detection, face detection, emotion recognition, pose estimation, and behavior analysis.
+A comprehensive system with multiple functions: human detection, face detection, emotion recognition, pose estimation, hand-raising detection, and behavior analysis.
 
 
 
@@ -30,8 +30,13 @@ python main/main.py --video 'path_to_video'
 
 
 ## Example
+Hand-raising detection:
 <div align="center">
-    <img src="README_images/example.jpg", width="800">
+    <img src="README_images/example1.jpg", width="800">
 </div>
 
+Fall detection:
+<div align="center">
+    <img src="README_images/example2.jpg", width="800">
+</div>
 
